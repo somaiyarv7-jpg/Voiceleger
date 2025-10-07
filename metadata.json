@@ -1,0 +1,7 @@
+{
+  "name": "VoiceLedger AI: Dynamic Pricing for SMEs",
+  "description": "A financial management tool that uses voice-to-text for transaction logging and an AI-powered dynamic pricing engine to provide real-time recommendations for small businesses.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
